@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, Welcome to my profile. 
+## My name is Carlos Esteban Arias Caro,
+## I'm 24 years old and recently started using github.
+## the skills that represent me are
+
 
 <!--
 **CEstebanARIAS/CEstebanARIAS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
