@@ -1,7 +1,17 @@
 # Hi, Welcome to my profile. 
 ## My name is Carlos Esteban Arias Caro,
 ## I'm 24 years old and recently started using github.
-## the skills that represent me are
+## THE SKILLS THAT REPRESENT ME ARE
+### continuous learning
+### Professional ethics
+### Teamwork
+### Problem Resolution
+# THE PROGRAMING LANGUAGES THAT I'M LEARN ARE
+### Python for Data Science
+### HTML, JAVASCRIPT, TAILWIND for creation of Web Pages responsive
+### Data Bases for BACKEND like MySQL with NodeJs
+### Angular is new for me, but i think that is equals to tailwind, i don't know, i will trying to read and learn more about that.
+### And it's all. Well obiusly this is the most important thing, i think. after i will try update this file and write more information about me.
 
 
 <!--
